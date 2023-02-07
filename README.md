@@ -4,6 +4,8 @@
 また [see_also](https://github.com/0816keisuke/how-to-write-paper/tree/main/see_also) では，本記事以外にも参照すべきサイト等を掲載していますので，そちらも参照した上で論文執筆をしてください．  
 皆さんの論文執筆がより良いものになりますように！
 
+※ 「こういった注意事項などもあるよ」といったアドバイスや，追加での補足事項，誤植などがありましたら，[Issue #1](https://github.com/0816keisuke/how-to-write-paper/issues/1) へコメントください．
+
 # 論文執筆のフロー
 
 1. 論文を執筆する．

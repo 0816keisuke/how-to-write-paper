@@ -101,6 +101,8 @@
 # 英語論文のチェック表
 本章でも，[上記の日本語論文のチェック表](https://github.com/0816keisuke/how-to-write-paper#%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%AB%96%E6%96%87%E3%81%AE%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E8%A1%A8)で記載したことが共通で言えることが多々あるので，まずはそちらを参照すべし．
 
+また，英語論文の執筆時には[Hyper Collocation](https://hypcol.marutank.net/ja/)を有効活用することで，自分の使おうとしてる語彙が自然かどうかもチェックしよう．
+
 ## ケアレスミス
 
 [まずはこちらを参照されたり](https://github.com/0816keisuke/how-to-write-paper#%E3%82%B1%E3%82%A2%E3%83%AC%E3%82%B9%E3%83%9F%E3%82%B9)
